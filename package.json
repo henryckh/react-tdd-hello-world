@@ -1,0 +1,27 @@
+{
+  "name": "react-tdd-hello-world",
+  "version": "0.0.1",
+  "description": "A hello world project shows how to use Jest in React TDD",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/henryckh/react-tdd-hello-world.git"
+  },
+  "keywords": [
+    "tdd",
+    "react"
+  ],
+  "author": "henry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/henryckh/react-tdd-hello-world/issues"
+  },
+  "homepage": "https://github.com/henryckh/react-tdd-hello-world#readme"
+}
